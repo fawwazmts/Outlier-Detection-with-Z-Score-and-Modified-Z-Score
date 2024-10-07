@@ -55,7 +55,7 @@ scipy==1.14.1
 
 ## **Related Article**
 
-There is an article discussing this project in detail. You can read it (here)[https://medium.com/@fawwazmts/z-score-and-modified-z-score-f689296e4d3a].
+There is an article discussing this project in detail. You can read it [here](https://medium.com/@fawwazmts/z-score-and-modified-z-score-f689296e4d3a).
 
 ## Contributing
 
