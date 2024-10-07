@@ -53,6 +53,10 @@ scipy==1.14.1
 4. **Explore and Experiment** :
    The notebook demonstrates how to use Z-Score and Modified Z-Score for detecting outliers. You can experiment with different datasets or modify the thresholds to observe how it affects outlier detection.
 
+## **Related Article**
+
+There is an article discussing this project in detail. You can read it (here)[https://medium.com/@fawwazmts/z-score-and-modified-z-score-f689296e4d3a].
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork this project, open an issue, or submit a pull request if you have ideas for improvements or new features. Make sure to follow the code of conduct when contributing.
